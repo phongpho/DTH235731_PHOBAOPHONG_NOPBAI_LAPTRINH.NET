@@ -9,4 +9,4 @@
 - **Tên môn:** Lập trình .NET  
 
 ## Mục đích
-Repo này được sử dụng để lưu trữ và nộp các bài tập, dự án trong môn học Lập trình .NET
+Repository này được sử dụng để lưu trữ và nộp các bài tập, dự án trong môn học Lập trình .NET
